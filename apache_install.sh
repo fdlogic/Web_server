@@ -11,7 +11,7 @@ echo "***************************"
 echo "Update and upgrade..."
 echo "***************************"
 
-sudo apt update & upgrade
+sudo apt-get update && sudo apt-get upgrade
 
 echo "****************"
 echo "Install Apache"
