@@ -1,6 +1,6 @@
 ### Install and configure Apache
 
-With this bash file, we can install an configure some parameters. For this, first we make a update and the and upgrade. After that, we make the insallation of the Apache.
+With this bash file, we can install and configure some parameters. For this, first we make a update and the and upgrade. After that, we make the insallation of the Apache.
 
 ### For install Apache2 in Linux (RPI):
 
